@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Trade n'drink - Website
+
+This project aim to create a website to host trade parties
 
 ## Getting Started
 
