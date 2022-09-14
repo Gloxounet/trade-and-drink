@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 
 const Home: NextPage = () => {
-	return <div>Landing page</div>;
+	return <div>Create profile</div>;
 };
 
 export default Home;
